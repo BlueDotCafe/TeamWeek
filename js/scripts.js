@@ -27,8 +27,6 @@
      cityHour = portlandTime + 2;
    } else if (cityName === "New York, New York") {
      cityHour = portlandTime + 3;
-   } else if (cityName === "St. Louis, Missouri") {
-     cityHour = portlandTime + 8;
    } else if (cityName === "Paris, France") {
      cityHour = portlandTime + 9;
    } else if (cityName === "Athens, Greece") {
